@@ -71,7 +71,7 @@ About Me
 
 I am a passionate data scientist with a strong background in machine learning and data analysis. I enjoy solving complex problems and leveraging data-driven insights to create impactful solutions. 
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/your-profile](https://www.linkedin.com/in/abhay-rohilla-92477a225/)
+- LinkedIn: https://www.linkedin.com/in/abhay-rohilla-92477a225/
 - Gmail: abhayrohilla267@gmail.com
 
 Contact
